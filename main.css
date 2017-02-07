@@ -77,14 +77,8 @@ body {
 p { margin:15px 0; line-height: 24px}
 .content p {color: #fff; margin-top: 10px;}
 
-/* table */
-table { margin:15px 0; border: 1px solid #cdcdcd; border-collapse:collapse; border-spacing:0; font-size:100%; width: 100%;}
-th { text-align:center; font-weight:bold; border: 1px solid #cdcdcd;}
-th, td { padding:4px 6px; border: 1px solid #cdcdcd;}
-tr.table-top {background: #e5e5e5; font-weight: bold;}
-
 /* list */
-ul, ol { display:block; margin:15px 0 15px 40px; }
+ul, ol { display:block; margin:15px 0 15px 40px; font: "calibri",sans-serif; }
 ul ul, ul ul ul, ol ol, ol ol ol { margin:0; margin-left:20px; }
 ol { list-style-type:decimal; }
 ol ol { list-style-type:upper-alpha; }
